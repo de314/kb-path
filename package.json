@@ -1,0 +1,26 @@
+{
+  "name": "kb-path",
+  "version": "0.1.0",
+  "description": "JSONPath Interface for KB Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de44/kb-path.git"
+  },
+  "author": "David Esposito <desposi1@gmail.com> (https://github.com/de44)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/de44/kb-path/issues"
+  },
+  "homepage": "https://github.com/de44/kb-path#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  }
+}
