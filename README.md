@@ -42,6 +42,9 @@ I use a very common utility lib in java and wanted to port this api/functionalit
 
 ## Tests
 
+[![Build Status](https://travis-ci.org/de44/kb-path.svg?branch=master)](https://travis-ci.org/de44/kb-path)
+[![Coverage Status](https://coveralls.io/repos/github/de44/kb-path/badge.svg?branch=master)](https://coveralls.io/github/de44/kb-path?branch=master)
+
 `npm test`
 
 ## License
